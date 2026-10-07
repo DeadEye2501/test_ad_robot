@@ -22,8 +22,8 @@ ESA Webb, ESA Hubble). Запрос считается завершённым, �
 ## Запуск
 
 ```bash
-git clone <адрес репозитория>
-cd internet-speed-test
+git clone https://github.com/DeadEye2501/test_ad_robot.git
+cd test_ad_robot
 
 python speedmeter.py                                   # набор картинок по умолчанию
 python speedmeter.py https://example.com/big.jpg       # один свой адрес
